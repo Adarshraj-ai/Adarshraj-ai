@@ -52,9 +52,9 @@ I'm a Computer Science postgraduate from **Pondicherry University (2026)** who l
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 📱 **University Campus Mart** | Cross-platform mobile marketplace for university students — buy, sell & exchange resources | Flutter · Dart · Supabase · MySQL | [View Repo →](https://github.com/Adarshraj-ai/university-campus-mart) |
-| 🏋️ **Gym Website** | Fully responsive gym website with animations, membership plans & contact form | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/gym-website) |
-| 📚 **Booksworld Store** | Online bookstore with dynamic search, cart persistence & clean UI | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/booksworld-website) |
+| 📱 **University Campus Mart** | Cross-platform mobile marketplace for university students — buy, sell & exchange resources with real-time chat & price negotiation | Flutter · Dart · Supabase · MySQL | [View Repo →](https://github.com/Adarshraj-ai/University-Campusmart) |
+| 🏋️ **Gym Website** | Fully responsive gym website with animations, membership plans & contact form | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/Gym-website/) |
+| 📚 **Booksworld Store** | Online bookstore with dynamic search, cart persistence & clean UI | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/booksworld-website/) |
 
 ---
 
@@ -70,9 +70,13 @@ I'm a Computer Science postgraduate from **Pondicherry University (2026)** who l
 
 <div align="center">
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshraj-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshraj-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj-ai&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adarshraj-ai&theme=tokyonight&hide_border=true)
 
@@ -86,7 +90,6 @@ I'm a Computer Science postgraduate from **Pondicherry University (2026)** who l
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshmass111b@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshraj-ai)
-[![Location](https://img.shields.io/badge/Pondicherry,%20India-1A5276?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
