@@ -82,11 +82,7 @@ I'm a Computer Science postgraduate from **Pondicherry University (2026)** who l
 
 </div>
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adarshraj-ai&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
