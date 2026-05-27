@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=200&section=header&text=Adarsh%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20Developer%20%7C%20MSc%20CS%20%40%20Pondicherry%20University&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=200&section=header&text=Adarsh%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20Developer%20%7C%20M.Sc%20CS%20Graduate%20%40%20Pondicherry%20University%202026&descAlignY=55&descAlign=50" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-I'm a Computer Science postgraduate from **Pondicherry University (2026)** who loves building things that work — cross-platform mobile apps, responsive web apps, and everything in between.
+I'm a **M.Sc Computer Science graduate from Pondicherry University (2026)** who loves building things that work — cross-platform mobile apps, responsive web apps, and everything in between.
 
 - 🔭 Currently building: **University Campus Mart** — a Flutter marketplace app for students
 - 🌱 Currently deepening: **Backend architecture**, **REST APIs**, **Cloud deployment**
@@ -82,7 +82,11 @@ I'm a Computer Science postgraduate from **Pondicherry University (2026)** who l
 
 </div>
 
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Adarshraj-ai&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
