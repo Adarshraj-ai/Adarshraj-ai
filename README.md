@@ -54,7 +54,7 @@ I'm a Computer Science postgraduate from **Pondicherry University (2026)** who l
 |--------|-------------|-------|------|
 | 📱 **University Campus Mart** | Cross-platform mobile marketplace for university students — buy, sell & exchange resources with real-time chat & price negotiation | Flutter · Dart · Supabase · MySQL | [View Repo →](https://github.com/Adarshraj-ai/University-Campusmart) |
 | 🏋️ **Gym Website** | Fully responsive gym website with animations, membership plans & contact form | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/Gym-website/) |
-| 📚 **Booksworld Store** | Online bookstore with dynamic search, cart persistence & clean UI | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/booksworld-website/) |
+| 📚 **Booksworld Store** | Online bookstore with dynamic search, cart persistence & clean UI | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/Bookstore/) |
 
 ---
 
@@ -70,15 +70,21 @@ I'm a Computer Science postgraduate from **Pondicherry University (2026)** who l
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshraj-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshraj-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Adarshraj-ai&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshraj-ai&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adarshraj-ai&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
