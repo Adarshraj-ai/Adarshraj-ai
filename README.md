@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=200&section=header&text=Adarsh%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20Developer%20%7C%20M.Sc%20CS%20Graduate%20%40%20Pondicherry%20University%202026&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=200&section=header&text=Adarsh%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20Developer%20%7C%20MSc%20CS%20%40%20Pondicherry%20University&descAlignY=55&descAlign=50" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-I'm a **M.Sc Computer Science graduate from Pondicherry University (2026)** who loves building things that work — cross-platform mobile apps, responsive web apps, and everything in between.
+I'm a Computer Science postgraduate from **Pondicherry University (2026)** who loves building things that work — cross-platform mobile apps, responsive web apps, and everything in between.
 
 - 🔭 Currently building: **University Campus Mart** — a Flutter marketplace app for students
 - 🌱 Currently deepening: **Backend architecture**, **REST APIs**, **Cloud deployment**
@@ -52,7 +52,7 @@ I'm a **M.Sc Computer Science graduate from Pondicherry University (2026)** who 
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 📱 **University Campus Mart** | Cross-platform mobile marketplace for university students — buy, sell & exchange resources with real-time chat & price negotiation | Flutter · Dart · Supabase · MySQL | [View Repo →](https://github.com/Adarshraj-ai/University-Campusmart) |
+| 📱 **University Campus Mart** | Cross-platform mobile marketplace for university students — buy, sell & exchange resources | Flutter · Dart · Supabase · MySQL | [View Repo →](https://github.com/Adarshraj-ai/university-campus-mart) |
 | 🏋️ **Gym Website** | Fully responsive gym website with animations, membership plans & contact form | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/Gym-website/) |
 | 📚 **Booksworld Store** | Online bookstore with dynamic search, cart persistence & clean UI | HTML5 · CSS3 · JavaScript | [Live Demo →](https://adarshraj-ai.github.io/Bookstore/) |
 
@@ -70,21 +70,11 @@ I'm a **M.Sc Computer Science graduate from Pondicherry University (2026)** who 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshraj-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshraj-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj-ai&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshraj-ai&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adarshraj-ai&theme=tokyonight&no-frame=true&row=1&column=6"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Adarshraj-ai&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -95,7 +85,9 @@ I'm a **M.Sc Computer Science graduate from Pondicherry University (2026)** who 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshmass111b@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-raj-b87942325/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshraj-ai)
+[![Location](https://img.shields.io/badge/Pondicherry,%20India-1A5276?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
